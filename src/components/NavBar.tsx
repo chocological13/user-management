@@ -8,7 +8,7 @@ const NavBar: React.FC = () => {
           Network Call Practice
         </a>
       </div>
-      <div className="links flex justify-center items-center h-full gap-2 text-xl md:flex-col">
+      <div className="links flex justify-center items-center h-full gap-2 text-xl">
         <a href="/" className="px-2">
           Users
         </a>
